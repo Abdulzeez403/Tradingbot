@@ -1,0 +1,9 @@
+requests
+pandas
+numpy
+pyTelegramBotAPI
+python-binance
+tensorflow
+scikit-learn
+python-dotenv
+

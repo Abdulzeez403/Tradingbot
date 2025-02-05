@@ -1,0 +1,40 @@
+# Python virtual environment
+myvenv/
+venv/
+env/
+
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+
+# IDE and editor files
+.vscode/
+.idea/
+*.iml
+*.swp
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Database files
+*.sqlite3
+*.db
+
+# Build and distribution files
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Dependency lock files
+Pipfile.lock
+poetry.lock
